@@ -1,0 +1,3 @@
+#Archivos que queremos omitir y no guardar, la carpeta siempre debe de estar con al menos un archivo o nos dara error
+node_modules/
+salida/*.txt
